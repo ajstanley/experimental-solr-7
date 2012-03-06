@@ -1,0 +1,5 @@
+name = Islandora Solr Search
+description = searches a solr index
+package = Islandora Search
+version = 11.2.beta2
+core = 7.x

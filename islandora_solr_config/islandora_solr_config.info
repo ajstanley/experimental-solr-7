@@ -1,0 +1,7 @@
+name = Islandora Solr Sample Configuration
+description = Example Code for Implementation of Islandora Solr Search Configuration providing Table output.
+dependencies[] = islandora_solr_search
+description = Customizes Islandora solr search
+package = Islandora Search
+version = 11.2.beta2
+core = 7.x
